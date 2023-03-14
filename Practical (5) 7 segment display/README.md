@@ -1,4 +1,7 @@
 Type in Command line:
+`sudo raspi-config`
+-> interfacign options
+-> enable i2c
 `sudo apt-get install python-smbus i2c-tools`
 
 Download zip file:
