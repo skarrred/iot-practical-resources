@@ -1,3 +1,7 @@
+sudo -i
+pip3 install telepot
+
+
 ![image](https://user-images.githubusercontent.com/93194254/224691038-4f04b55e-a650-46db-8f41-ae84d545649e.png)
 ![image](https://user-images.githubusercontent.com/93194254/224691998-bad45194-9ea3-46e9-8d3d-a10d0b7dc6b9.png)
 ![image](https://user-images.githubusercontent.com/93194254/224692047-661545f6-36b0-4951-b8fd-7852f124965a.png)
